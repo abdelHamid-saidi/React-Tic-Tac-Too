@@ -10,7 +10,7 @@ const PlayerChoice = ({ onChoice }) => {
 
   return (
     <div className="container" id="cont1">
-      <img src="/xo.png" id="logo" alt="logo" />
+      <img src="./xo.png" id="logo" alt="logo" />
       <div id="choix">
         <br />
         <label id="lb1">PICK PLAYER 1'S MARK</label>

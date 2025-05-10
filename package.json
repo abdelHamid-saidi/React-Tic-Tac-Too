@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://abdelHamid-saidi.github.io/React-Tic-Tac-Too/",
+  "homepage": "https://abdelhamid-saidi.github.io/React-Tic-Tac-Too/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

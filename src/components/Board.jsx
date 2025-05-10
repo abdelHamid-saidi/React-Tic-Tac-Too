@@ -102,9 +102,9 @@ const Board = ({ mark, mode }) => {
 
   const getImageSrc = (cell, index) => {
     if (winningCombo.includes(index)) {
-      return `/${cell}g.png`;
+      return `./${cell}g.png`;
     }
-    return `/${cell}.png`;
+    return `./${cell}.png`;
   };
 
   function evaluate(b) {
@@ -173,9 +173,9 @@ const Board = ({ mark, mode }) => {
   return (
     <div className="container" id="cont2" style={{ opacity: 1, display: 'grid' }}>
       <div id="hed">
-        <img src="/xo.png" style={{ width: '40px' }} alt="XO logo" />
+        <img src="./xo.png" style={{ width: '40px' }} alt="XO logo" />
         <div id="turn">
-          <img src={`/${turn}.png`} style={{ height: '55%', marginRight: '5px' }} id="trnim" alt="Turn" />
+          <img src={`./${turn}.png`} style={{ height: '55%', marginRight: '5px' }} id="trnim" alt="Turn" />
           TURN
         </div>
         <button id="retun" onClick={() => window.dispatchEvent(new CustomEvent('backToChoice'))}>
@@ -219,7 +219,7 @@ const Board = ({ mark, mode }) => {
             <div id="won2">
               {winner !== 'draw' ? (
                 <>
-                  <img src={`/${winner}.png`} id="xox" />
+                  <img src={`./${winner}.png`} id="xox" />
                   <p
                     style={{ color: winner === 'x' ? '#31c4be' : '#f1b336' }}
                   >
