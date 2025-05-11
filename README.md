@@ -2,7 +2,7 @@
 
 Un jeu de morpion (Tic Tac Toe) moderne développé en **React.js** avec deux modes :
 -  Joueur vs Joueur
--  Joueur vs Ordinateur (IA basée sur Minimax)
+-  Joueur vs Ordinateur
 
 
 ##  Démo en ligne
