@@ -4,19 +4,16 @@ Un jeu de morpion (Tic Tac Toe) moderne développé en **React.js** avec deux mo
 -  Joueur vs Joueur
 -  Joueur vs Ordinateur (IA basée sur Minimax)
 
----
 
 ##  Démo en ligne
 
  [Jouer maintenant](https://abdelhamid-saidi.github.io/React-Tic-Tac-Too/)
 
----
 
 ##  Aperçu
 
-![screenshot]() <!-- facultatif si tu ajoutes une image -->
+![cover-pc](https://github.com/user-attachments/assets/be51fdf8-221f-4903-a48d-00b18ba4d104)
 
----
 
 ## 🛠️ Stack technique
 
@@ -25,7 +22,6 @@ Un jeu de morpion (Tic Tac Toe) moderne développé en **React.js** avec deux mo
 - **CSS personnalisé**
 - **Lucide-react** pour les icônes
 
----
 
 ##  Installation locale
 
