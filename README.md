@@ -7,7 +7,7 @@ Un jeu de morpion (Tic Tac Toe) moderne développé en **React.js** avec deux mo
 
 ## 🎮 Démo en ligne
 
-[![Jouer maintenant](https://img.shields.io/badge/Jouer%20maintenant-React%20TicTacToe-2BB7DA?style=for-the-badge&logo=react)](https://abdelhamid-saidi.github.io/React-Tic-Tac-Too/)
+[![Voir la Démo](https://github.com/user-attachments/assets/3b525a35-8c82-4d23-8b40-4662be6ea2f1)](https://abdelhamid-saidi.github.io/React-Tic-Tac-Too/)
 
 
 ##  Aperçu
